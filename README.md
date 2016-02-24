@@ -16,5 +16,5 @@ make
 
 ```
 Usage: threadpl <noOfthreads>
-The first command argument indictes he number of worker threads 
+The first command argument indictes the number of worker threads to be used in preocessing the jobs.
 
